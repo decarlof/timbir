@@ -14,6 +14,10 @@ Software Dependencies
     OpenMP
     make utility
 
+Dependencies Install
+=====================
+
+
 Compiling the code
 ==================
 
